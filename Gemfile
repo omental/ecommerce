@@ -43,6 +43,8 @@ group :development do
   gem 'spring'
   gem "paperclip"
   gem 'devise'
+  gem 'stripe'
+  gem 'figaro'
 
 end
 
